@@ -1,1 +1,6 @@
 This is me learning how to code to make money 
+
+git commit
+adding more to test 
+
+
